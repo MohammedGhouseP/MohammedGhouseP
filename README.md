@@ -6,9 +6,6 @@ I’m a full stack developer with expertise in HTML, CSS, JavaScript, React.js, 
 
 Always eager to learn and collaborate on innovative projects.
 
-
-**MohammedGhouseP/MohammedGhouseP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning to be a Full-Stack Developer
