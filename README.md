@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Want to join USA Start-up but no network
 
 
+![image](https://github.com/user-attachments/assets/046543ff-45fe-4c69-903a-4125a3882fdf)
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,reactnative&perline=3)](https://skillicons.dev)
