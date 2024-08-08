@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am Ghouse
 Full Stack Developer | Passionate about building scalable web applications
 
 I’m a full stack developer with expertise in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. I enjoy turning complex problems into simple, beautiful, and intuitive designs. With a strong background in both front-end and back-end development, I strive to create seamless and efficient user experiences.
