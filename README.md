@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-  <a href="https://skillicons.dev">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nodejs,expressjs,mongodb)](https://skillicons.dev)
+<a href="https://skillicons.dev"> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nodejs,expressjs,mongodb,reactnative)](https://skillicons.dev)
   </a>
 </p>
 
