@@ -14,18 +14,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to be a Full-Stack Developer
 - 👯 I’m looking to collaborate on React JS and Express JS
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: HTML | CSS3 | Chakra UI | Javascript | React JS | Node JS | Express JS | Mongo DB | React Native  
+- 💬 Ask me about: HTML | CSS3 | Chakra UI | Javascript | React JS | Node JS | Express JS | Mongo DB | React Native 
+- 📫 How to reach me:  email:ghousebashamail@gmail.com  
 - 😄 Pronouns: He/His
-- 📭 How to reach me: email:ghousebashamail@gmail.com
 - ⚡ Fun fact: Want to join USA Start-up but no network
 
 
 
-  <p align="center">
-<a href="https://skillicons.dev"> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs&perline=3)](https://skillicons.dev)
 
