@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Want to join USA Start-up but no network
 
- 
- ![image](https://github.com/user-attachments/assets/5d4737d9-1ea7-4688-8bd3-b1459e7731fd)
-
-![image](https://github.com/user-attachments/assets/a6d99875-c74e-4bce-8317-76f363d18e55)
-
+https://iconscout.com/lottie-animation/software-engineer-9997295
 
 
 
