@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,reactnative&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb&perline=3)](https://skillicons.dev)
 
