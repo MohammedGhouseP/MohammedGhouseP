@@ -1,20 +1,19 @@
 ## Hi there 👋
-## I am Ghouse
-Full Stack Developer | Passionate about building scalable web applications
+## Mohammed Ghouse
+Full Stack Developer | Focused on Building Scalable Web Applications
 
-I’m a full stack developer with expertise in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. I enjoy turning complex problems into simple, beautiful, and intuitive designs. With a strong background in both front-end and back-end development, I strive to create seamless and efficient user experiences.
+Mohammed Ghouse is a full stack developer skilled in HTML, CSS, JavaScript, React.js, Next.js, CI/CD, Docker, Node.js, Express.js, MongoDB and Postgresql. With a strong foundation in both front-end and back-end technologies, he builds intuitive, responsive, and efficient user experiences. Passionate about clean design and problem-solving, he enjoys working on innovative and impactful projects.
 
-Always eager to learn and collaborate on innovative projects.
+Highlights:
+🌱 Currently advancing full-stack development skills
 
-Here are some ideas to get you started:
+👯 Open to collaborating on React.js and Express.js projects
 
-- 🌱 I’m currently learning to be a Full-Stack Developer
-- 👯 I’m looking to collaborate on React JS and Express JS
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: HTML | CSS3 | Chakra UI | Javascript | React JS | Node JS | Express JS | Mongo DB | React Native 
-- 📫 How to reach me:  email:ghousebashamail@gmail.com  
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Want to join USA Start-up but no network
+💬 Skills: HTML, CSS3, Chakra UI, JavaScript, React.js, Node.js, Express.js, MongoDB, React Native
+
+📫 Contact: ghousebashamail@gmail.com
+
+⚡ Fun fact: Aiming to join a US-based startup and expand professional network
 
 
 ![image](https://github.com/user-attachments/assets/046543ff-45fe-4c69-903a-4125a3882fdf)
